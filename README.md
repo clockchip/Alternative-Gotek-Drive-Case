@@ -26,13 +26,13 @@ For my setup with a Bambu Lab P1S, I use the following print plates:
 The bottom part and rotary knob can be printed without support structures. They should be oriented so that their outer surfaces lie flat on the print bed.
 
 <p align="center">
-    <img src="docs/print-2.jpeg" alt="Printing of the bottom part" width="500">
+    <img src="docs/print-2.png" alt="Printing of the bottom part" width="500">
 </p>
 
 The top section should be printed with basic supports and oriented with its outer surface facing upward.
 
 <p align="center">
-    <img src="docs/print-1.jpeg" alt="Printing of the top part" width="500">
+    <img src="docs/print-1.png" alt="Printing of the top part" width="500">
 </p>
 
 Ensure that filament flow is calibrated to avoid unwanted gaps on the surface.
@@ -68,7 +68,7 @@ Here are some pictures of my Amiga 4000 with the modified case.
 </p>
 
 <p align="center">
-    <img src="docs/Prototype-2.jpeg" alt="Picture of the prototype back" width="500">
+    <img src="docs/prototype-2.jpeg" alt="Picture of the prototype back" width="500">
 </p>
 
 <p align="center">
