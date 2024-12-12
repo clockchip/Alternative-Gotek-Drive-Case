@@ -4,7 +4,7 @@
 
 # 3D-Printable Alternative Gotek Drive Case
 
-This is a 3D-printable alternative case for a Gotek drive, primarily designed for my Amiga 4000. It can also be installed in other computers as it supports the standardized 3.5” drive bay size.
+This is a 3D-printable alternative case for a Gotek drive, specifically designed to complement the design language of my Amiga 4000. It can also be installed in other computers as it supports the standardized 3.5” drive bay size.
 
 The case consists of a bottom part, top part, and a rotary knob. It supports all the features of the original case and offers these additional advantages:
 
