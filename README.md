@@ -45,19 +45,13 @@ The assembly is mostly straightforward:
     <img src="docs/parts.jpeg" alt="Picture of the bottom part" width="500">
 </p>
 
-Bend the front panel 90 degrees upward from the bottom and glue it in place.
-
-When the glue is dry, the front panel can optionally be painted—for example, in RAL 9002 to match the Amiga 4000.
-
-Detailed instructions for the hardware modifications supported by this case can be found on the FlashFloppy website.
-
-The mechanical modifications required to install the rotary encoder are the same as those for the original case. However, when using the alternative rotary knob, the metal shaft of the encoder must be shortened by 5mm using a metal saw.
-
-Use 2x5x7 mm LEDs. If they are too bright, a suitable resistor can be added.
-
-The OLED display is inserted into its socket and fixed in place by melting the seven pins with a soldering iron.
-
-The buzzer is inserted into its slot and should be held securely by a press fit. If it is loose, plastic glue can be used.
+- Bend the front panel 90 degrees upward from the bottom and glue it in place.
+- When the glue is dry, the front panel can optionally be painted—for example, in RAL 9002 to match the Amiga 4000.
+- Detailed instructions for the hardware modifications supported by this case can be found on the FlashFloppy website.
+- The mechanical modifications required to install the rotary encoder are the same as those for the original case. However, when using the alternative rotary knob, the metal shaft of the encoder must be shortened by 5mm using a metal saw.
+- Replace the original LEDs with rectangular 2x5x7 mm LEDs. If they are too bright, a suitable resistor can be added.
+- The OLED display is inserted into its socket and fixed in place by melting the seven pins with a soldering iron.
+- The buzzer is inserted into its slot and should be held securely by a press fit. If it is loose, plastic glue can be used.
 
 ## Pictures
 
