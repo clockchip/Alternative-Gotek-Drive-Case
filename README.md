@@ -83,4 +83,4 @@ Here are some pictures of my Amiga 4000 with the modified case.
 
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
-<p xmlns:cc="http://creativecommons.org/ns#"  xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title"  rel="cc:attributionURL"  href="https://github.com/clockchip/LC475-CoolingFanExtender">LC475-CoolingFanExtender</a> by clockchip is licensed  under <a  href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0</a></p>  
+<p xmlns:cc="http://creativecommons.org/ns#"  xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title"  rel="cc:attributionURL"  href="https://github.com/clockchip/Alternative-Gotek-Drive-Case">Alternative Gotek Drive Case</a> by clockchip is licensed  under <a  href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0</a></p>  
