@@ -64,19 +64,19 @@ The buzzer is inserted into its slot and should be held securely by a press fit.
 Here are some pictures of my Amiga 4000 with the modified case.
 
 <p align="center">
-    <img src="docs/prototype-1.jpg" alt="Picture of prototype front" width="500">
+    <img src="docs/prototype-1.jpeg" alt="Picture of prototype front" width="500">
 </p>
 
 <p align="center">
-    <img src="docs/Prototype-2.jpg" alt="Picture of the prototype back" width="500">
+    <img src="docs/Prototype-2.jpeg" alt="Picture of the prototype back" width="500">
 </p>
 
 <p align="center">
-    <img src="docs/a4000-1.jpg" alt="Picture showing the final case built into a Amiga 4000" width="500">
+    <img src="docs/a4000-1.jpeg" alt="Picture showing the final case built into a Amiga 4000" width="500">
 </p>
 
 <p align="center">
-    <img src="docs/a4000-2.jpg" alt="Another picture showing the final case built into a Amiga 4000" width="500">
+    <img src="docs/a4000-2.jpeg" alt="Another picture showing the final case built into a Amiga 4000" width="500">
 </p>
 
 ## License
