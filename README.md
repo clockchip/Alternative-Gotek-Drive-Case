@@ -50,8 +50,8 @@ The assembly is mostly straightforward:
 - Detailed instructions for the hardware modifications supported by this case can be found on the [FlashFloppy](https://github.com/keirf/flashfloppy/wiki/Hardware-Mods) website.
 - The mechanical modifications required to install the rotary encoder are the same as those for the original case. However, when using the alternative rotary knob, the metal shaft of the encoder must be shortened by 5mm using a metal saw.
 - Replace the original LEDs with rectangular [2x5x7 mm LEDs](https://www.amazon.de/gp/product/B01C3ZZT0U/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1). If they are too bright, a suitable resistor can be added.
-- The OLED display is inserted into its socket and fixed in place by melting the seven pins with a soldering iron.
-- The buzzer is inserted into its slot and should be held securely by a press fit. If it is loose, plastic glue can be used.
+- The [OLED display](https://www.amazon.de/gp/product/B0CDLS8F2Y/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) is inserted into its socket and fixed in place by melting the seven pins with a soldering iron.
+- The [buzzer](https://www.amazon.de/gp/product/B07Y653F2S/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) is inserted into its slot and should be held securely by a press fit. If it is loose, plastic glue can be used.
 
 ## Pictures
 
